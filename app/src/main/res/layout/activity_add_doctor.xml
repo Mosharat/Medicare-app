@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddDoctorActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:background="@color/teal_700">
+
+
+
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/loginlogo"
+            android:layout_centerInParent="true"
+            android:src="@drawable/doctor"
+            android:layout_gravity="center">
+
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title"
+            android:layout_below="@+id/loginlogo"
+            android:text="Doctor Registration"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/black">
+        </TextView>
+
+        </RelativeLayout>
+
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxStrokeColor="#000"
+            android:theme="@style/TextInputLayoutStyle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            app:hintTextAppearance="@color/design_default_color_on_primary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dlistfullname"
+                android:hint="Enter Full Name"
+                android:drawableStart="@drawable/ic_profile"
+                android:drawableLeft="@drawable/ic_profile"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textColorHint="@color/black">
+            </com.google.android.material.textfield.TextInputEditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxStrokeColor="#000"
+            android:theme="@style/TextInputLayoutStyle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            app:hintTextAppearance="@color/design_default_color_on_primary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dlistdegree"
+                android:hint="Enter Qualification"
+                android:drawableStart="@drawable/ic_education"
+                android:drawableLeft="@drawable/ic_education"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textColorHint="@color/black">
+            </com.google.android.material.textfield.TextInputEditText>
+
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxStrokeColor="#000"
+            android:theme="@style/TextInputLayoutStyle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            app:hintTextAppearance="@color/design_default_color_on_primary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dlistspeciality"
+                android:hint="Enter Speciality"
+                android:drawableStart="@drawable/ic_like"
+                android:drawableLeft="@drawable/ic_like"
+                android:drawablePadding="10dp"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textColorHint="@color/black">
+            </com.google.android.material.textfield.TextInputEditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxStrokeColor="#000"
+            android:theme="@style/TextInputLayoutStyle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            app:hintTextAppearance="@color/design_default_color_on_primary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dlistemail"
+                android:hint="Enter Email"
+                android:drawableStart="@drawable/ic_mail"
+                android:drawableLeft="@drawable/ic_mail"
+                android:drawablePadding="10dp"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textColorHint="@color/black">
+            </com.google.android.material.textfield.TextInputEditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:boxStrokeColor="#000"
+            android:theme="@style/TextInputLayoutStyle"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            app:hintTextAppearance="@color/design_default_color_on_primary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dlistphone"
+                android:hint="Enter Phone Number"
+                android:drawableStart="@drawable/ic_phone"
+                android:drawableLeft="@drawable/ic_phone"
+                android:drawablePadding="10dp"
+                android:inputType="phone"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textColorHint="@color/black">
+            </com.google.android.material.textfield.TextInputEditText>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/depertmentspinner"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:popupBackground="#fff"
+            android:entries="@array/depertments"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="9dp">
+
+        </Spinner>
+
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/doctorlistsavebutton"
+            android:text="Save"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+            android:textAllCaps="false"
+            android:layout_gravity="center"
+            android:textColor="@color/white"
+            android:background="@drawable/buttons_background">
+
+        </Button>
+
+
+    </LinearLayout>
+
+</ScrollView>

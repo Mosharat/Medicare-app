@@ -1,0 +1,1460 @@
+<resources>
+    <string name="app_name">MediCare</string>
+    <string name="welcome_to_medicare">Welcome To MediCare</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="depertments">
+        <item>Select Depertment</item>
+
+        <item>Dentistry</item>
+        <item>Surgery</item>
+        <item>Psychology</item>
+        <item>Pediatric</item>
+        <item>Cardiology</item>
+        <item>Gynecology</item>
+
+
+    </string-array>
+
+    <string-array name="health_tips_name">
+
+        <item>A Good Way To Gain Weight If You Are Underweight</item>
+        <item>Physical Activity</item>
+        <item>Physical Activity Guide</item>
+        <item>A Smart Approach To Weight Loss</item>
+        <item>Healthy Eating Plan</item>
+        <item>How To Use In haler</item>
+        <item>Keep Your Heart Healthy</item>
+        <item>Keep Your Kidney Healthy</item>
+        <item>Keep Your Liver Healthy</item>
+        <item>Signs Of Breast Cancer</item>
+        <item>Vitamin A</item>
+        <item>Vitamin B</item>
+        <item>Vitamin B12</item>
+        <item>Vitamin C</item>
+        <item>Vitamin D</item>
+        <item>Vitamin E</item>
+        <item>Vitamin K</item>
+
+    </string-array>
+
+    <string-array name="disease_name">
+        <item>Back Pain</item>
+        <item>Piles</item>
+        <item>Tetanus</item>
+        <item>Thalassemia</item>
+        <item>Swine Flu</item>
+        <item>Tonsillitis</item>
+        <item>Tuberculosis</item>
+        <item>Urinary Tract Infection</item>
+        <item>Virtigo</item>
+
+    </string-array>
+
+    <string-array name="parental_care">
+        <item>Prenatal Care</item>
+        <item>Postnatal Care</item>
+        <item>Menstrual Problems</item>
+        <item>Miscarriage</item>
+        <item>High Risk Pregnancy</item>
+
+    </string-array>
+
+    <string-array name="gender">
+        <item>Select Gender</item>
+
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+
+
+    </string-array>
+
+    <string name="option1">Health Tips</string>
+    <string name="option2">Disease and Symptoms</string>
+    <string name="option3">Mother and child corner</string>
+    <string name="option4">BMI Calculator</string>
+    <string name="option5">Doctor list</string>
+    <string name="option6">Ambulance</string>
+    <string name="option7">Log Out</string>
+
+
+    <string name="Backpain_text">Back pain is a common symptom that affects 60–80% of people at some time in their lives.The prognosis (outcome) is generally good. After 2 days, 30% are better and 90% have recovered by 6 weeks. Recurrences  of  pain  may  occur  and  about  10–15%  of patients  go  on  to  develop  chronic  back  pain  that  may  be difficult  to  treat.  Psychological  elements,  such  as  job  dissatisfaction,  depression  and  anxiety,  are  important  risk factor.
+        Causes of Back pain
+        Mechanical back pain
+        Prolapsed intervertebral  disc
+        Osteoarthritis
+        Vertebral fracture
+        Spinal stenosis
+        Paget’s disease
+        Spondylolysis
+        Bone metastases etc.
+        Others causes
+        Renal colic, Pyelonephritis
+        Pelvic inflammatory disease
+        Pancreatitis
+        Peptic ulcer disease
+        What causes back pain in children?
+        These injuries are usually caused by activity and overuse. Scheuermann’s disease causes pain that is not severe enough to limit activity. It is the second most common cause of back pain in children and young adults. Your child may have a rounded spine.
+        Can Stomach pain be caused by back pain?
+        A back injury or injury to the spine can cause pain to radiate in the abdomen. Also, a pinched nerve can not only cause pain to the entire area served by that nerve, but it can also cause various stomach functioning problems as well. Inflammation of the colon, or colitis, is very often associated with lower back pain.
+        Why do girls have back pain?
+        Lower back pain during your period, or primary dysmenorrhea, is caused by contractions in the uterus.
+        What causes muscle spasms in the lower back?
+        Back spasms can be the result of injuries to the muscles, tendons, and ligaments in the back or it can be related to more serious medical conditions. Heavy lifting is a common cause of back spasms. Any activity that puts excessive strain on the muscles and ligaments in the lower back can cause an injury.
+        Symptoms of mechanical low back pain
+        Pain  varies  with  physical  activity  (improved  with  rest)
+        Sudden  onset,  precipitated  by  lifting  or  bending
+        Recurrent  episodes
+        Pain  limited  to  back  or  upper  leg
+        No  clear-cut  nerve  root  distribution
+        No  systemic  features
+        Prognosis  good  (90%  recovery  at  6  wks)
+        Red flags for possible spinal pathology (Danger features)
+        Age:  presentation  20  yrs  or   55  yrs
+        Character:  constant,  progressive  pain  unrelieved  by rest
+        Location:  thoracic  pain
+        Past  medical  history:  carcinoma,  tuberculosis,  HIV,  systemic corticosteroid  use,  osteoporosis
+        Constitutional:  systemic  upset,  sweats,  weight  loss
+        Major  trauma
+        Investigations
+        Investigations are not required in patients with acute mechanical back pain.  Those  with  persistent  pain  (> 6  weeks)  or  red  flags  should  undergo further  investigations such as MRI, X-Ray, Bone scan and some blood tests.
+        What are the treatment of LBP?
+        General
+        Self-limiting nature of the condition.
+        Stay active, exercise is helpful rather than damaging
+        Medication if necessary (preferably at fixed time intervals).
+        Paracetamol
+        NSAID like ibuprofen, indomethacin, naproxen.
+        Regular use, improved mobility, and facilitate exercise
+        Doctor may consider opioids, muscle relaxant medicine
+        Bed rest is not helpful it increase the risk of chronic disability .
+        For pain relief doctor may consider spinal manipulation Lumbar supports, back-specific exercises, traction, acupuncture, epidural or facet injections not helpful for mechanical back pain .
+        Physiotherapy may be required if not improved within 6 weeks Low dose Tricyclic anti-depressant drugs will help pain, sleep and mood
+        Specific Treatment of other causes should be done accordingly with involving other special departments as per doctor advice.
+        What should we do for back spasms?
+        Warm water compression helps to promote healing by drawing healthy blood cells to the area of the back spasm. Heat also relaxes the nerves and muscle fibers. Try an ice and heat alternate cycle after the first 72 hours. Some physical therapists suggest using heat applications before stretching and ice after stretching.
+        What is the cause of muscle spasms?
+        Spasms may affect many different types of muscles in the body, leading to many different symptoms. Spasms of skeletal muscles are most common and are often due to overuse, dehydration, and electrolyte abnormalities. The spasm occurs abruptly, is painful, and is usually short-lived.
+        How do you get rid of a muscle spasm?
+        Natural Treatments for Muscle Spasms.
+        Prevent Electrolyte Imbalances. A potassium and/or magnesium deficiency can contribute to muscle spasms.
+        Stretch and Massage Your Muscles.
+        Stay Hydrated.
+        Use Ice or Heat Packs on Sensitive Muscles
+        Fix Your Posture.
+        Take a Bath with Epsom Salt.
+        How long does it take to heal from a back spasm?
+        After the first three days, you can start using heat to loosen muscle tightness and increase blood flow. Waiting at least 72 hours after your spasms start allows the initial swelling and inflammation to go down, and moist heat is generally preferred to dry because it reduces the potential for dehydration.
+    </string>
+    <string name="Piles_text">Haemorrhoids, also known as piles, are swellings containing enlarged blood vessels found inside or around the bottom (the rectum and anus).
+
+When symptoms do occur, they may include:
+
+bleeding after passing a stool – the blood is usually bright red
+itchy bottom
+a lump hanging down outside of the anus, which may need to be pushed back in after passing a stool
+a mucus discharge after passing a stool
+soreness, redness and swelling around your anus
+Haemorrhoids aren’t usually painful, unless their blood supply slows down or is interrupted.
+
+When to seek medical advice
+See your GP if you have persistent or severe symptoms of haemorrhoids. You should always get any rectal bleeding checked so your doctor can rule out more potentially serious causes.
+
+The symptoms of haemorrhoids often clear up on their own, or by using simple treatments that can be bought from a pharmacy without a prescription.
+
+Speak to your GP if your symptoms don’t get better or you experience pain or bleeding.
+
+Your GP can often diagnose haemorrhoids using a simple internal examination of your back passage, although they may need to refer you to a colorectal specialist for diagnosis and treatment.
+
+Some people with haemorrhoids are reluctant to see their GP. But there’s no need to be embarrassed – GPs are very used to diagnosing and treating haemorrhoids.
+
+What causes haemorrhoids?
+The exact cause of haemorrhoids is unclear, but they’re associated with increased pressure in the blood vessels in and around your anus. This pressure can cause theblood vessels in your back passage to become swollen and inflamed.
+
+Many cases are thought to be caused by too much straining on the toilet as a result of prolonged constipation. This is often caused by a lack of fibre in a person’s diet.
+
+Chronic (long-term) diarrhoea can also make you more vulnerable to getting haemorrhoids.
+
+Other factors that might increase your risk of developing haemorrhoids include:
+
+being overweight or obese
+age – as you get older, your body’s supporting tissues get weaker, increasing your risk of haemorrhoids
+being pregnant – this can place increased pressure on your pelvic blood vessels, causing them to enlarge; read more about piles in pregnancy
+having a family history of haemorrhoids
+regularly lifting heavy objects
+a persistent cough or repeated vomiting
+sitting down for long periods of time
+Preventing and treating haemorrhoids
+Haemorrhoid symptoms often settle down after a few days without needing treatment. Haemorrhoids that occur during pregnancy often get better after giving birth.
+
+Making lifestyle changes to reduce the strain on the blood vessels in and around your anus is often recommended.
+
+These can include:
+
+gradually increasing the amount of fibre in your diet – good sources of fibre include fruit, vegetables, wholegrain rice, wholewheat pasta and bread, pulses and beans, seeds, nuts and oats
+drinking plenty of fluid – particularly water, but avoiding or cutting down on caffeine and alcohol
+not delaying going to the toilet – ignoring the urge to empty your bowels can make your stools harder and drier, which can lead to straining when you do go to the toilet
+avoiding medication that causes constipation – such as painkillers that contain codeine
+losing weight if you’re overweight
+exercising regularly – this can help prevent constipation, reduce your blood pressure, and help you lose weight
+
+
+These measures can also reduce the risk of haemorrhoids returning or even developing in the first place.
+
+Treatment
+
+Medication that you apply directly to your back passage (topical treatments) or tablets bought from a pharmacy or prescribed by your GP may ease your symptoms and make it easier for you to pass stools.
+
+More severe cases need to be treated by a specialist.
+
+One possible treatment is rubber band ligation. Rubber band ligation can be performed in the doctor’s surgery or outpatient clinic and does not require hospital admission.
+
+The procedure involves placing a small rubber band at the base of the haemorrhoid with a special applicator. The rubber band cuts off the blood supply to the haemorrhoid, which eventually falls off after a few days.
+
+Injection of a substance that makes the blood in the haemorrhoid clot is another option (sclerotherapy).
+
+The most serious cases are third-degree haemorrhoids. These protrude through the back passage and can require surgical removal or ‘haemorrhoidectomy’. Such operations are successful in 90 per cent of cases. However, many third-degree haemorrhoids shrink and become symptom-free without surgical treatment.
+
+    </string>
+    <string name="Tetanus_text">Tetanus is a serious bacterial disease that affects your nervous system, leading to painful muscle contractions, particularly of your jaw and neck muscles.
+
+There’s no cure for tetanus. Treatment focuses on managing complications until the effects of the tetanus toxin resolve. Fatality is highest in individuals who haven’t been immunized and in older adults with inadequate immunization.
+
+Symptoms
+Common signs and symptoms of tetanus, in order of appearance, are:
+
+Spasms and stiffness in your jaw muscles
+Stiffness of your neck muscles
+Difficulty swallowing
+Stiffness of your abdominal muscles
+Painful body spasms lasting for several minutes, typically triggered by minor occurrences, such as a draft, loud noise, physical touch or light
+When to see a doctor
+See your doctor to obtain a tetanus booster shot if you have a deep or dirty wound and you haven’t had a booster shot within the past five years or aren’t sure of when your last booster was. Or see your doctor about a tetanus booster for any wound — especially if it may have been contaminated with dirt, animal feces or manure — if you haven’t had a booster shot within the past 10 years or aren’t sure of when you were last vaccinated.
+
+Causes
+The bacteria that cause tetanus, Clostridium tetani, are found in soil, dust and animal feces.
+
+Risk factors
+In addition, certain factors are necessary for tetanus bacteria to proliferate in your body. These include:
+
+Lack of immunization or inadequate immunization — failure to receive timely booster shots — against tetanus
+A penetrating injury that results in tetanus spores being introduced to the wound site
+The presence of other infective bacteria
+Injured tissue
+A foreign body, such as a nail or splinter
+Swelling around the injury
+Tetanus cases have developed from the following types of injuries:
+
+Puncture wounds — including from splinters, body piercings, tattoos, injection drugs
+Gunshot wounds
+Compound fractures
+Crush injuries
+Burns
+Surgical wounds
+Injection drug use
+Ear infections
+Animal bites
+Infected foot ulcers
+Infected umbilical stumps in newborns born of inadequately immunized mothers
+Tests and diagnosis
+Doctors diagnose tetanus based on a physical exam, medical and immunization history, and the signs and symptoms of muscle spasms, stiffness and pain. Laboratory tests generally aren’t helpful for diagnosing tetanus
+
+Treatments and drugs
+Since there’s no cure for tetanus, treatment consists of wound care, medications to ease symptoms and supportive care.
+
+Wound care
+Cleaning the wound is essential to preventing growth of tetanus spores. This involves removing dirt, foreign objects and dead tissue from the wound.
+
+Medications
+Your doctor may give you a tetanus antitoxin, such as tetanus immune globulin.
+Your doctor may also give you antibiotics, either orally or by injection, to fight tetanus bacteria.
+Doctors generally use powerful sedatives to control muscle spasms.
+Other drugs. Other medications, such as magnesium sulfate and certain beta blockers, may be used to help regulate involuntary muscle activity, such as your heartbeat and breathing. Morphine may be used for this purpose as well as sedation.
+Supportive therapies
+Tetanus infection often requires a long period of treatment in an intensive care setting. Since sedatives may result in shallow breathing, you may need to be supported temporarily by a ventilator.
+
+Prevention
+You can easily prevent tetanus by being immunized against the toxin. Almost all cases of tetanus occur in people who’ve never been immunized or who haven’t had a tetanus booster shot within the preceding 10 years.
+    </string>
+    <string name="Thalassemia_text">Thalassemia is an inherited blood disorder characterized by less hemoglobin and fewer red blood cells in your body than normal.
+
+Symptoms
+Thalassemia symptoms include:
+
+Fatigue
+Weakness
+Pale appearance
+Yellow discoloration of skin (jaundice)
+Facial bone deformities
+Slow growth
+Abdominal swelling
+Dark urine
+When to see a doctor
+Make an appointment with your child’s doctor for an evaluation if he or she has any signs or symptoms that worry you.
+
+Risk factors
+Factors that increase your risk of thalassemia include:
+
+Family history of thalassemia. Thalassemia is passed from parents to children through mutated hemoglobin genes. If you have a family history of thalassemia, you may have an increased risk of the condition.
+Certain ancestry. Thalassemia occurs most often in people of Italian, Greek, Middle Eastern, Asian and African ancestry.
+Complications
+Possible complications of thalassemia include:
+
+Iron overload.
+Bone deformities.
+Enlarged spleen (splenomegaly).
+Slowed growth rates.
+Heart problems. Heart problems, such as congestive heart failure and abnormal heart
+rhythms (arrhythmias), may be associated with severe thalassemia.
+
+Tests and diagnosis
+If your child has thalassemia, blood tests may reveal:
+
+A low level of red blood cells
+Smaller than expected red blood cells
+Pale red blood cells
+Red blood cells that are varied in size and shape
+Red blood cells with uneven hemoglobin distribution, which gives the cells a bull’s-eye appearance under the microscope
+Blood tests may also be used to:
+
+Measure the amount of iron in your child’s blood
+Evaluate his or her hemoglobin
+Perform DNA analysis to diagnose thalassemia or to determine if a person is carrying mutated hemoglobin genes
+Prenatal testing
+Testing can be done before a baby is born to find out if it has thalassemia and determine how severe it may be. Tests used to diagnose thalassemia in fetuses include:
+
+Chorionic villus sampling. This test is usually done around the 11th week of pregnancy and involves removing a tiny piece of the placenta for evaluation.
+Treatments and drugs
+Treatment for thalassemia depends on which type you have and how severe it is.
+
+Treatments for mild thalassemia
+Signs and symptoms are usually mild with thalassemia minor and little, if any, treatment is needed. Occasionally, you may need a blood transfusion, particularly after surgery, after having a baby or to help manage thalassemia complications.
+
+Some people with beta-thalassemia intermedia may need treatment for iron overload.
+
+Treatments for moderate to severe thalassemia
+Treatments for moderate to severe thalassemia may include:
+
+Frequent blood transfusions.
+Stem cell transplant.
+Lifestyle and home remedies
+If you have thalassemia, be sure to:
+
+Avoid excess iron.
+Eat a healthy diet.
+Avoid infections.
+Prevention
+In most cases, thalassemia can’t be prevented. If you have thalassemia, or if you carry a thalassemia gene, consider talking with a genetic counselor for guidance before you have or father a child.
+    </string>
+    <string name="SwineFlue_text">Technically, the term “swine flu” refers to influenza in pigs. Occasionally, pigs transmit influenza viruses to people, mainly to hog farmers and veterinarians. Less often, someone infected with swine flu passes the infection to others.
+
+Symptoms
+H1N1 flu signs and symptoms in humans are similar to those of other flu strains:
+
+Fever (but not always)
+Cough
+Sore throat
+Runny or stuffy nose
+Watery, red eyes
+Body aches
+Headache
+Fatigue
+Diarrhea
+Nausea and vomiting
+H1N1 flu symptoms develop about one to three days after you’re exposed to the virus.
+
+When to see a doctor
+It’s not necessary to see a doctor if you’re generally healthy and develop flu signs and symptoms, such as fever, cough and body aches. Call your doctor, however, if you have flu symptoms and you’re pregnant or you have a chronic disease, such as asthma, emphysema, diabetes or a heart condition, because you have a higher risk of complications from the flu.
+
+Risk factors
+If you’ve traveled to an area where many people are affected by swine flu (H1N1 flu), you may have been exposed to the virus, particularly if you spent time in large crowds.
+
+Swine farmers and veterinarians have the highest risk of true swine flu because of their exposure to pigs.
+
+Complications
+Influenza complications include:
+
+Worsening of chronic conditions, such as heart disease and asthma
+Pneumonia
+Neurological signs and symptoms, ranging from confusion to seizures
+Respiratory failure
+Treatments and drugs
+Most cases of flu, including H1N1 flu, require only symptom relief. If you have a chronic respiratory disease, your doctor may prescribe additional medications to help relieve your symptoms.
+
+The antiviral drugs oseltamivir and zanamivir are sometimes prescribed within the first day or two of symptoms to reduce the severity of your symptoms, and possibly the risk of complications. But, flu viruses can develop resistance to these drugs.
+
+Lifestyle and home remedies
+If you develop any type of flu, these measures may help ease your symptoms:
+
+Drink plenty of liquids. Choose water, juice and warm soups to prevent dehydration.
+Get more sleep to help your immune system fight infection.
+Consider pain relievers. Use an over-the-counter pain reliever, such as acetaminophen or ibuprofen, cautiously. Also, use caution when giving aspirin to children or teenagers.
+Prevention
+Stay home if you’re sick.
+Wash your hands thoroughly and frequently.
+Contain your coughs and sneezes.
+Avoid contact.
+Reduce exposure within your household.
+
+    </string>
+    <string name="Tonsillitis_text">Tonsillitis is inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat — one tonsil on each side.
+
+Symptoms
+Tonsillitis most commonly affects children between preschool ages and the mid-teenage years. Common signs and symptoms of tonsillitis include:
+
+Red, swollen tonsils
+White or yellow coating or patches on the tonsils
+Sore throat
+Difficult or painful swallowing
+Fever
+Enlarged, tender glands (lymph nodes) in the neck
+A scratchy, muffled or throaty voice
+Bad breath
+Stomachache, particularly in younger children
+Stiff neck
+Headache
+In young children who are unable to describe how they feel, signs of tonsillitis may include:
+
+Drooling due to difficult or painful swallowing
+Refusal to eat
+Unusual fussiness
+When to see a doctor
+It’s important to get an accurate diagnosis if your child has symptoms that may indicate tonsillitis.
+
+Call your doctor if your child is experiencing:
+
+A sore throat that doesn’t go away within 24 to 48 hours
+Painful or difficult swallowing
+Extreme weakness, fatigue or fussiness
+Get immediate care if your child has any of these symptoms:
+
+Difficulty breathing
+Extreme difficulty swallowing
+Drooling
+Causes
+Tonsillitis is most often caused by common viruses, but bacterial infections can also be the cause.
+
+The most common bacterium causing tonsillitis is Streptococcus pyogenes (group A streptococcus), the bacterium that causes strep throat. Other strains of strep and other bacteria also may cause tonsillitis.
+
+Complications
+Inflammation or swelling of the tonsils from frequent or ongoing (chronic) tonsillitis can cause complications such as:
+
+Difficulty breathing
+Disrupted breathing during sleep (obstructive sleep apnea)
+Infection that spreads deep into surrounding tissue (tonsillar cellulitis)
+Infection that results in a collection of pus behind a tonsil (peritonsillar abscess)
+Tests and diagnosis
+Your child’s doctor will start with a physical exam that will include:
+
+Using a lighted instrument to look at your child’s throat and likely his or her ears and nose, which may also be sites of infection
+Checking for a rash known as scarlatina, which is associated with some cases of strep throat
+Gently feeling (palpating) your child’s neck to check for swollen glands (lymph nodes)
+Listening to his or her breathing with a stethoscope
+Checking for enlargement of the spleen (for consideration of mononucleosis, which also inflames the tonsil
+Lab diagnosis include
+Throat swab
+Complete blood count
+Treatments and drugs
+At-home care
+At-home care strategies to use during the recovery time include the following:
+
+Encourage rest. Encourage your child to get plenty of sleep.
+Provide adequate fluids.
+Provide comforting foods and beverage. Warm liquids — broth, caffeine-free tea or warm water with honey — and cold treats like ice pops can soothe a sore throat.
+Prepare a saltwater gargle.
+Offer lozenges. Children older than age 4 can suck on lozenges to relieve a sore throat.
+Avoid irritants.
+Treat pain and fever.
+Antibiotics
+If tonsillitis is caused by a bacterial infection, your doctor will prescribe a course of antibiotics. Penicillin taken by mouth for 10 days is the most common antibiotic treatment prescribed for tonsillitis caused by group A streptococcus. If your child is allergic to penicillin, your doctor will prescribe an alternative antibiotic.
+
+Your child must take the full course of antibiotics as prescribed even if the symptoms go away completely. Failure to take all of the medication as directed may result in the infection worsening or spreading to other parts of the body. Not completing the full course of antibiotics can, in particular, increase your child’s risk of rheumatic fever and serious kidney inflammation.
+
+Surgery
+Surgery to remove tonsils (tonsillectomy) may be used to treat frequently recurring tonsillitis, chronic tonsillitis or bacterial tonsillitis that doesn’t respond to antibiotic treatment. Frequent tonsillitis is generally defined as:
+
+More than seven episodes in one year
+More than four to five episodes a year in each of the preceding two years
+More than three episodes a year in each of the preceding three years
+A tonsillectomy may also be performed if tonsillitis results in difficult-to-manage complications, such as:
+
+Obstructive sleep apnea
+Breathing difficulty
+Swallowing difficulty, especially meats and other chunky foods
+An abscess that doesn’t improve with antibiotic treatment
+Prevention
+The germs that cause viral and bacterial tonsillitis are contagious. Therefore, the best prevention is to practice good hygiene. Teach your child to:
+
+Wash his or her hands thoroughly and frequently, especially after using the toilet and before eating
+Avoid sharing food, drinking glasses, water bottles or utensils
+Replace his or her toothbrush after being diagnosed with tonsillitis
+To help your child prevent the spread of a bacterial or viral infection to others:
+
+Keep your child at home when he or she is ill
+Ask your doctor when it’s all right for your child to return to school
+Teach your child to cough or sneeze into a tissue or, when necessary, into his or her elbow
+Teach your child to wash his or her hands after sneezing or coughing
+    </string>
+    <string name="Tuberculosis_text">Tuberculosis (TB) is a potentially serious infectious disease that mainly affects your lungs. The bacteria that cause tuberculosis are spread from one person to another through tiny droplets released into the air via coughs and sneezes.
+
+Symptoms
+Signs and symptoms of active TB include:
+
+Coughing that lasts three or more weeks
+Coughing up blood
+Chest pain, or pain with breathing or coughing
+Unintentional weight loss
+Fatigue
+Fever
+Night sweats
+Chills
+Loss of appetite
+Tuberculosis can also affect other parts of your body, including your kidneys, spine or brain. When TB occurs outside your lungs, signs and symptoms vary according to the organs involved.
+
+When to see a doctor
+See your doctor if you have
+
+fever
+unexplained weight loss
+drenching night sweats or a persistent cough
+These are often signs of TB, but they can also result from other medical problems.
+
+Risk factors
+Anyone can get tuberculosis, but certain factors can increase your risk of the disease. These factors include:
+
+Weakened immune system
+A healthy immune system often successfully fights TB bacteria, but your body can’t mount an effective defense if your resistance is low. A number of diseases and medications can weaken your immune system, including:
+
+HIV/AIDS
+Diabetes
+End-stage kidney disease
+Certain cancers
+Cancer treatment, such as chemotherapy
+Drugs to prevent rejection of transplanted organs
+Some drugs used to treat rheumatoid arthritis, Crohn’s disease and psoriasis
+Malnutrition
+Very young or advanced age
+Traveling or living in certain areas
+The risk of contracting tuberculosis is higher for people who live in or travel to countries that have high rates of tuberculosis and drug-resistant tuberculosis, such as:
+
+Sub-Saharan Africa
+India
+China
+Russia
+Pakistan
+Poverty and substance abuse
+Lack of medical care.
+Substance abuse.
+Tobacco use.
+Complications
+Spinal pain. Back pain and stiffness are common complications of tuberculosis.
+Joint damage. Tuberculous arthritis usually affects the hips and knees.
+Swelling of the membranes that cover your brain (meningitis).
+Liver or kidney problems.
+Heart disorders.
+Tests and diagnosis
+During the physical exam, your doctor will check your lymph nodes for swelling and use a stethoscope to listen carefully to the sounds your lungs make while you breathe.
+
+The most commonly used diagnostic tool for tuberculosis are
+
+Tuberculin test.
+Blood tests.
+Imaging tests. If you’ve had a positive skin test, your doctor is likely to order a chest X-ray or a CT scan.
+Sputum tests. If your chest X-ray shows signs of tuberculosis, your doctor may take samples of your sputum — the mucus that comes up when you cough. The samples are tested for TB bacteria. Sputum samples can also be used to test for drug-resistant strains of TB.
+Treatments and drugs
+The most common medications used to treat tuberculosis include:
+
+Isoniazid
+Rifampin
+Ethambutol
+Pyrazinamide
+If you have drug-resistant TB, a combination of antibiotics called fluoroquinolones and injectable medications, such as amikacin, kanamycin or capreomycin, are generally used for 20 to 30 months.
+
+Completing treatment is essential
+After a few weeks, you won’t be contagious and you may start to feel better. It might be tempting to stop taking your TB drugs. But it is crucial that you finish the full course of therapy and take the medications exactly as prescribed by your doctor. Stopping treatment too soon or skipping doses can allow the bacteria that are still alive to become resistant to those drugs, leading to TB that is much more dangerous and difficult to treat.
+
+To help people stick with their treatment, a program called directly observed therapy (DOT) is recommended. In this approach, a health care worker administers your medication so that you don’t have to remember to take it on your own.
+
+Prevention
+If you have active TB, keep your germs to yourself. It generally takes a few weeks of treatment with TB medications before you’re not contagious anymore. Follow these tips to help keep your friends and family from getting sick:
+
+Stay home. Don’t go to work or school or sleep in a room with other people during the first few weeks of treatment for active tuberculosis.
+Ventilate the room. Tuberculosis germs spread more easily in small closed spaces where air doesn’t move. If it’s not too cold outdoors, open the windows and use a fan to blow indoor air outside.
+Cover your mouth. Use a tissue to cover your mouth anytime you laugh, sneeze or cough. Put the dirty tissue in a bag, seal it and throw it away.
+Wear a mask. Wearing a surgical mask when you’re around other people during the first three weeks of treatment may help lessen the risk of transmission.
+
+
+    </string>
+    <string name="UrinaryTractInfection_text">
+        A urinary tract infection (UTI) is an infection in any part of your urinary system — your kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract — the bladder and the urethra.Women are at greater risk of developing a UTI than men.
+
+Symptoms
+Urinary tract infections don’t always cause signs and symptoms, but when they do they may include:
+
+A strong, persistent urge to urinate
+A burning sensation when urinating
+Passing frequent, small amounts of urine
+Urine that appears cloudy
+Urine that appears red, bright pink or cola-colored — a sign of blood in the urine
+Strong-smelling urine
+Pelvic pain
+UTIs may be overlooked or mistaken for other conditions in older adults.
+
+Causes
+Infection of the bladder (cystitis). This type of UTI is usually caused by Escherichia coli (E. coli), a type of bacteria commonly found in the gastrointestinal (GI) tract. However, sometimes other bacteria are responsible. Sexual intercourse may lead to cystitis, but you don’t have to be sexually active to develop it.
+Infection of the urethra (urethritis). This type of UTI can occur when GI bacteria spread from the anus to the urethra. Also, because the female urethra is close to the vagina, sexually transmitted infections, such as herpes, gonorrhea, chlamydia and mycoplasma, can cause urethritis
+Complications
+Recurrent infections, especially in women who experience three or more UTIs.
+Permanent kidney damage from an acute or chronic kidney infection (pyelonephritis) due to an untreated UTI.
+Increased risk in pregnant women of delivering low birth weight or premature infants.
+Urethral narrowing (stricture) in men from recurrent urethritis, previously seen with gonococcal urethritis.
+Sepsis, a potentially life-threatening complication of an infection, especially if the infection works its way up your urinary tract to your kidneys.
+Tests and diagnosis
+Tests and procedures used to diagnose urinary tract infections include:
+
+Analyzing a urine sample
+Growing urinary tract bacteria in a lab
+Creating images of your urinary tract
+Using a scope to see inside your bladder
+Treatments and drugs
+Antibiotics usually are the first line treatment for urinary tract infections. Which drugs are prescribed and for how long depend on your health condition and the type of bacteria found in your urine.
+
+Drugs commonly recommended for simple UTIs include:
+
+Trimethoprim
+Sulfamethoxazole
+Fosfomycin
+Nitrofurantoin
+Ciprofloxacin
+Levofloxacin
+Cephalexin
+Ceftriaxone
+Azithromycin
+Doxycycline
+Lifestyle and home remedies
+Urinary tract infections can be painful, but you can take steps to ease your discomfort until antibiotics treat the infection. Follow these tips:
+
+Drink plenty of water. Water helps to dilute your urine and flush out bacteria.
+Avoid drinks that may irritate your bladder. Avoid coffee, alcohol, and soft drinks containing citrus juices or caffeine until your infection has cleared. They can irritate your bladder and tend to aggravate your frequent or urgent need to urinate.
+Use a heating pad. Apply a warm, but not hot, heating pad to your abdomen to minimize bladder pressure or discomfort.
+Prevention
+You can take these steps to reduce your risk of urinary tract infections:
+
+Drink plenty of liquids, especially water. Drinking water helps dilute your urine and ensures that you’ll urinate more frequently — allowing bacteria to be flushed from your urinary tract before an infection can begin.
+Wipe from front to back. Doing so after urinating and after a bowel movement helps prevent bacteria in the anal region from spreading to the vagina and urethra.
+Empty your bladder soon after intercourse. Also, drink a full glass of water to help flush bacteria.
+Avoid potentially irritating feminine products. Using deodorant sprays or other feminine products, such as douches and powders, in the genital area can irritate the urethra.
+Change your birth control method. Diaphragms, or unlubricated or spermicide-treated condoms, can all contribute to bacterial growth.
+
+    </string>
+    <string name="Virtigo_text">Vertigo is a type of dizziness and refers to a false sensation that oneself or the surroundings are moving or spinning (usually accompanied by nausea and loss of balance) that is a result of a mismatch between vestibular, visual, and somatosensory systems.
+
+Types
+Central (cerebral cortex, cerebellum, brainstem) – eg, cerebrovascular disease, migraine, multiple sclerosis, acoustic neuroma, diplopia, alcohol intoxication.
+Peripheral (vestibular labyrinth, semicircular canals or vestibular nerve) – eg, viral labyrinthitis, vestibular neuritis, benign paroxysmal positional vertigo (BPPV), Ménière’s disease, motion sickness, ototoxicity (eg, gentamicin), herpes zoster (Ramsay Hunt syndrome).
+Causes
+Causes of vertigo may include:
+
+Viral labyrinthitis.
+Vestibular neuritis (often misdiagnosed as labyrinthitis).
+Benign paroxysmal positional vertigo.
+Vertebrobasilar ischaemia
+Eustachian tube dysfunction (causes mild vertigo).
+Ménière’s disease
+Chronic otitis media.
+Drugs: salicylates, quinine, aminoglycosides.
+Vestibularmigraine.
+Epilepsy the likely diagnosis if vertigo is associated with loss of consciousness.
+Acoustic neuroma may cause mild vertigo, but associated with unilateral sensorineuraldeafness and tinnitus.
+Nasopharyngeal carcinoma
+Neurological:brain stem cerebrovascular accident,multiple sclerosis,syringobulbia,cerebellar tumours
+Following head injury
+Assessment
+Complaints of dizzy spells are very common and are used by patients to describe many different sensations. The key to making a diagnosis is to find out exactly what the patient means by dizzy and then decide whether or not this represents vertigo. With a clear description of vertigo, the precipitants and time course (onset, frequency, and duration of attacks) are often diagnostic.
+
+Assess the nature of the dizziness
+Assess whether the person has vertigo rather than presyncope, disequilibrium (imbalance), or light-headedness. Vertigo usually causes rotatory or spinning symptoms.
+Assess any associated symptoms
+Ear symptoms – eg, hearing loss, ear discharge, tinnitus.
+Neurological symptoms – eg, headache, diplopia, visual disturbance, dysarthria or dysphagia, paraesthesia, muscle weakness or ataxia.
+Autonomic symptoms – eg, nausea and vomiting, sweating or palpitations.
+Symptoms suggesting migraine aura – eg, visual or olfactory symptoms.
+Assess any relevant medical history
+Recent upper respiratory tract infection or ear infection (may suggest a diagnosis of vestibular neuronitis or labyrinthitis).
+History of migraine.
+Head trauma or recent labyrinthitis suggests BPPV.
+Direct trauma to the ear, which may indicate possible perilymph fistula.
+Both anxiety or depression can aggravate dizziness or vertigo.
+Cardiovascular risk factors increase the likelihood that stroke may be the cause of vertigo.
+Some drugs (eg, aminoglycosides, furosemide, antidepressants, antipsychotics, anticonvulsants) may cause vertigo.
+Acute intoxication with alcohol may cause vertigo.
+Examination
+Neurological examination including gait and their ability to stand unaided, cranial nerves, cerebellar function, signs of peripheral neuropathy and any indication of a cerebrovascular event.
+Ear examination including signs of infection, discharge and cholesteatoma.
+Eye examination: nystagmus (common in acute vertigo), fundoscopy.
+Investigations
+No investigations are likely to be performed in primary care.
+Secondary care investigations include:
+Audiometry for cochlear function.
+Vestibular function: electronystagmography, calorimetry and brain stem-evoked responses.
+Possible neurological cause: CT or MRI.
+Electroencephalography (EEG): epilepsy.
+Lumbar puncture: possible multiple sclerosis.
+Syphilis serology.
+Management
+Explanation and reassurance are important as anxiety exacerbates vertigo. Persistent disequilibrium should be overcome by central adaptation, but anxiety may prevent this.
+
+General advice
+Advise the person not to drive when they are dizzy, or if they are likely to experience an episode of vertigo while driving.
+The person should inform their employer if their vertigo poses a risk in the workplace, eg using ladders, operating heavy machinery or driving.
+Discuss the risk of falling in the home during an episode of vertigo and suggest measures
+Drug treatment
+Consider offering symptomatic drug treatment with prochlorperazine, cinnarizine, cyclizine or promethazine (antihistamines) for no longer than one week. It is important that the person should stop symptomatic treatment 48 hours before seeing a specialist.
+
+Rehabilitation programmes
+There is evidence to support the efficacy of vestibular rehabilitation programmes for unilateral peripheral vestibular disorder; a simple programme including patient education and home-based exercises can be sufficient.
+Booklet based vestibular rehabilitation for chronic dizziness has been shown to be a simple and cost effective means of improving patient reported outcomes in primary care.
+Balance rehabilitation is important and beneficial in elderly people, in whom dizziness is invariably multifactorial.
+A recent Cochrane review confirmed the efficacy of Epley’s manoeuvre and then a period of post-Epley postural restriction (eg, upright head posture for 48 hours) in treating BPPV.
+Surgery
+Surgical options for Ménière’s disease include endolymphatic sac surgery, vestibular nerve section, micropressure therapy and labyrinthectomy.
+
+Complications
+Increased risk of falls, especially in the elderly.
+Vertigo may confine people to their homes, making them fearful or depressed.
+Prognosis
+Follow-up studies have shown BPPV rates of 50% at five years and a persistence of dizziness related to anxiety in almost a third of patients one year after vestibular neuritis
+    </string>
+    <string name="Prenatal_text">Prenatal care helps decrease risks during pregnancy and increase the chance of a safe and healthy delivery for the mother and child. Regular prenatal visits can help your doctor monitor your pregnancy and identify any problems or complications before they become serious.
+
+Prenatal care ideally starts at least three months before you begin trying to conceive. Some healthy habits to follow during this period include:
+
+quitting smoking and drinking alcohol
+taking folic acid supplements (400 to 800 micrograms)
+talking to you doctor about your medical conditions and any dietary supplements and over-the-counter or prescription drugs that you take
+avoiding all contact with toxic substances and chemicals at home or work that could be harmful
+During Pregnancy
+Once you become pregnant, your physician, or midwife will schedule regular appointments throughout each stage of your pregnancy.
+
+A schedule of visits may involve seeing your doctor:
+
+every month in the first six months you are pregnant
+every two weeks in the seventh and eighth months you are pregnant
+every week during your ninth month of pregnancy
+During these visits, your doctor will check your health and the health of your baby.
+
+Visits may include:
+
+taking routine tests and screenings, such as a blood test to check for anemia, HIV, and your blood type
+monitoring your blood pressure
+measuring your weight gain
+monitoring the baby’s growth and heart rate
+talking about special diet and exercise
+Later visits may also include checking the baby’s position and noting changes in your body as you prepare for birth.
+
+Your doctor may also offer special classes at different stages of your pregnancy.
+
+These classes will:
+
+discuss what to expect when you are pregnant
+prepare you for the birth
+teach you basic skills for caring for your baby
+If your pregnancy is considered high-risk because of your age or health conditions, you may require more frequent visits and special care. You may also need to see a doctor who works with high-risk pregnancies.
+
+    </string>
+    <string name="Postnatal_text">The postnatal period lasts six to eight weeks, beginning right after the baby is born.
+
+During this period, the mother goes through many physical and emotional changes while learning to care for her newborn. Postnatal care involves getting proper rest, nutrition, and vaginal care.
+
+Getting Enough Rest
+Rest is crucial to new mothers who need to rebuild their strength. To avoid getting too tired as a new mother, you may need to:
+
+sleep when your baby sleeps
+keep your bed near your baby’s crib to make night feedings easier
+allow someone else to feed the baby with a bottle while you sleep
+Eating Right Nutrition
+Because of the changes your body goes through during pregnancy and labor, getting proper nutrition in the postnatal period is crucial. The weight that you gained during pregnancy helps make sure you have enough nutrition for breastfeeding. However, you need to continue to eat a healthy diet after delivery.
+
+Experts recommend that breastfeeding mothers eat when they feel hungry. Make a special effort to focus on eating when you are actually hungry—not just busy or tired.
+
+Try to:
+
+avoid high-fat snacks
+focus on eating low-fat foods that balance protein, carbohydrates, and fruits and vegetables
+drink plenty of fluids
+Vaginal Care
+New mothers should make vaginal care an essential part of their postnatal care. You may experience:
+
+vaginal soreness if you had a tear during delivery
+urination problems, such as pain or a frequent urge to urinate
+discharge, including small blood clots
+contractions during the first few days after delivery
+Schedule a checkup with your doctor about six weeks after delivery to discuss symptoms and receive proper treatment. You abstain from sexual intercourse for four to six weeks after delivery so that your vagina has proper time to heal.
+
+
+
+    </string>
+    <string name="menstrual_text">What Are Menstrual Problems?
+Menstrual cycles often bring about a wide array of uncomfortable symptoms leading up to your period. Premenstrual syndrome (PMS) encompasses the most common issues, such as mild cramping and fatigue, but the symptoms usually go away when your period begins.
+
+However, other, more serious menstrual problems may also arise. Menstruation that is too heavy or light, or a complete absence of a cycle, all signal issues that can contribute to an abnormal menstrual cycle. It is important to stay in tune with your body and call your doctor right away if you notice any significant changes to your menstrual cycle.
+
+Premenstrual Syndrome
+PMS occurs one to two weeks before your period begins. Some women experience a range of physical and emotional symptoms. Others experience few symptoms or none at all. PMS can cause:
+
+bloating
+backaches
+headaches
+breast soreness
+acne
+food cravings
+excessive fatigue
+depression
+anxiety
+feelings of stress
+insomnia
+constipation
+diarrhea
+mild stomach cramps
+You may experience different symptoms every month, and the severity of these symptoms can also vary. PMS is uncomfortable, but it is generally not worrisome unless it interferes with your normal activities.
+
+Heavy Periods
+Another common menstrual problem is a heavy period. Also called menorrhagia, heavy periods cause you to bleed more than normal. You may also have your period for longer than the average of five to seven days.
+
+Menorrhagia is mostly caused by imbalances in hormone levels, especially progesterone and estrogen. Other causes of heavy or irregular menstrual bleeding include:
+
+puberty
+vaginal infections
+inflammation of the cervix
+underactive thyroid gland (hypothyroidism)
+noncancerous uterus tumors (fibroids)
+changes in diet or exercise
+Absent Periods
+In some cases, women may not get their periods. Amenorrhea occurs when you don’t get your period by the time you reach the age of 16. This may be caused by an issue with the pituitary gland, a congenital defect of the female reproductive system, or a delay in puberty.
+
+Another common problem with teens is secondary amenorrhea. This occurs when you start your cycle, but it suddenly stops for three months or more.
+
+Common causes of amenorrhea and secondary amenorrhea include:
+
+anorexia
+overactive thyroid gland (hyperthyroidism)
+ovarian cysts
+sudden weight gain or loss
+stopping birth control
+pregnancy
+The causes of a lack of periods differ in adults. These may include:
+
+premature ovarian failure
+pelvic inflammatory disease (a reproductive infection)
+pregnancy
+breastfeeding
+menopause
+A missed period could mean you’re pregnant. If you suspect you could be pregnant, be sure to take a pregnancy test. Drugstore pregnancy tests are the least expensive way to determine whether you are pregnant. To get the most accurate results, wait until you have missed your period by at least one day before taking the test.
+
+Painful Periods
+Not only can your period be lighter or heavier than normal, but it can also be painful. Cramps are normal during PMS, and they also occur when your uterus contracts as your period begins. However, some women experience excruciating pain. Also called dysmenorrhea, extremely painful menstruation is likely linked to an underlying medical problem, such as:
+
+fibroids
+pelvic inflammatory disease
+abnormal tissue growth outside of the uterus (endometriosis)
+Diagnosing Menstrual Problems
+The first step in diagnosing menstrual problems is to see your doctor for a pelvic exam. Your doctor can tell if your vagina or cervix is inflamed at this time. A Pap smear will also be performed to rule out the possibility of cancer or other underlying conditions.
+
+Blood tests can help determine whether hormonal imbalances are causing your menstrual problems. If you suspect that you may be pregnant, your doctor or nurse practitioner will perform a blood or urine pregnancy test during your visit.
+
+Treating Menstrual Problems
+The type of treatment your doctor recommends depends on what’s causing problems with your menstrual cycle. Birth control pills can help relieve symptoms of PMS as well as regulate heavy flows. If a heavier or lighter than normal flow is related to a thyroid or other hormonal disorder, you may experience more regularity once you start hormone replacements.
+
+Dysmenorrhea may be hormone-related, but you may also require further medical treatment to address the problem. For example, antibiotics are used to treat pelvic inflammatory disease.
+
+
+
+    </string>
+    <string name="Miscarrige_text">A miscarriage is the loss of a baby before the 20th week of pregnancy.
+
+More than 80% of miscarriages occur within the first three months of pregnancy. They are less likely to occur after 20 weeks’ gestation; if they do, they are called late miscarriages.
+
+What Are the Symptoms of Miscarriage?
+Symptoms of a miscarriage include:
+
+Bleeding that progresses from light to heavy
+Cramps
+Abdominal pain
+Fever
+Passing of tissue
+If you’re pregnant and experience the symptoms listed above, contact your obstetric health care provider.
+
+What Causes Miscarriage?
+The causes of miscarriage are not well understood. Most of the miscarriages that occur in the first trimester of pregnancy are caused by chromosomal abnormalities in the baby.
+
+Miscarriages are also caused by a variety of other factors, including:
+
+Infection
+Exposure to environmental and workplace hazards, such as high levels of radiation or toxic agents
+Hormonal problems
+Uterine abnormalities
+Incompetent cervix (the cervix begins to widen and open too early, in the middle of pregnancy, without signs of pain or labor)
+Lifestyle factors, such as smoking, drinking alcohol, or using illegal drugs
+Disorders of the immune system, including lupus
+Severe kidney disease
+Congenital heart disease
+Diabetes that is not controlled
+Thyroid disease
+Radiation
+Certain medications, such as the acne drug Accutane
+Severe malnutrition.
+How Is a Miscarriage Treated?
+Your doctor will perform a pelvic exam and an ultrasound test to confirm the miscarriage. If the miscarriage is complete and the uterus is clear, then no further treatment is usually required.
+
+If a miscarriage was not confirmed, but you had symptoms of a miscarriage,bed rest is often prescribed for several days, and you may be admitted to the hospital overnight for observation.
+
+Blood tests, genetic tests, or medication may be necessary if a woman has more than two miscarriages in a row (called repeated miscarriage). Some diagnostic procedures used to evaluate the cause of repeated miscarriage include:
+
+Endometrial biopsy
+Hysterosalpingogram
+Hysteroscopy
+Laparoscopy
+How Do I Know if I Had a Miscarriage?
+Spotting and mild discomfort are common symptoms after a miscarriage. If you have heavy bleeding, fever, chills or pain, contact your health care provider . These may be signs of an infection.
+
+Can I Get Pregnant Following a Miscarriage?
+Yes. At least 85% of women who have miscarriages have subsequent normal pregnancies and births. Having a miscarriage does not necessarily mean you have a fertility problem. On the other hand, about 1%-2% of women may have repeated miscarriages (three or more). Some researchers believe this is related to an autoimmune response.
+
+If you’ve had two miscarriages in a row, you should stop trying to conceive, use a form of birth control and ask your doctor to perform diagnostic tests to determine the cause of the miscarriages.
+
+When Can I Try to Get Pregnant After a Miscarriage?
+Discuss the timing of your next pregnancy with your doctor. Some doctors recommend waiting a certain amount of time (from one menstrual cycle to 3 months) before tying to conceive again. To prevent another miscarriage, your doctor may recommend treatment with progesterone, a hormone needed for implantation in the uterus.
+
+Taking time to heal both physically and emotionally after a miscarriage is important. Above all, don’t blame yourself for the miscarriage. Counseling is available to help you cope with your loss. Pregnancy loss support groups may also be a valuable resource to you and your partner. Ask your doctor for more information about these resources.
+
+Can a Miscarriage Be Prevented?
+Usually a miscarriage cannot be prevented and often occurs because the pregnancy is not normal. However, if the problem is related to the woman’s cervix, such as an incompetent cervix, surgical treatments may helpful.
+
+    </string>
+    <string name="HighRiskPregnancy_text">A high-risk pregnancy is one that threatens the health or life of the mother or her fetus.
+
+For most women, early and regular prenatal care promotes a healthy pregnancy and delivery without complications. But some women are at an increased risk for complications even before they get pregnant for a variety of reasons.
+
+Risk factors for a high-risk pregnancy can include:
+
+Existing health conditions, such as high blood pressure, diabetes, or being HIV-positive.
+Overweight and obesity. Obesity increases the risk for high blood pressure, preeclampsia, gestational diabetes, stillbirth, neural tube defects, and cesarean delivery. Obesity can raise infants’ risk of heart problems at birth by 15%.
+Multiple births. The risk of complications is higher in women carrying more than one fetus (twins and higher-order multiples). Common complications include preeclampsia, premature labor, and preterm birth. More than half of all twins and as many as 93% of triplets are born at less than 37 weeks’ gestation.
+Young or old maternal age. Pregnancy in teens and women aged 35 or over increases the risk for preeclampsia and gestational high blood pressure.
+Women with high-risk pregnancies should receive care from a special team of health care providers to ensure that their pregnancies are healthy and that they can carry their infant or infants to term.
+
+
+    </string>
+    <string name="GainWeight_text">What’s a good way to gain weight if you’re underweight?
+
+Although being lean can often be healthy, being underweight can be a concern if it’s the result of poor nutrition or if you are pregnant or have other health concerns. So, if you’re underweight, see your doctor or dietitian for an evaluation. Together, you can plan how to meet your goal weight.
+
+Here are some healthy ways to gain weight when you’re underweight:
+
+Eat more frequently. When you’re underweight, you may feel full faster. Eat five to six smaller meals during the day rather than two or three large meals.
+Choose nutrient-rich foods. As part of an overall healthy diet, choose whole-grain breads, pastas and cereals; fruits and vegetables; dairy products; lean protein sources; and nuts and seeds.
+Try smoothies and shakes. Don’t fill up on diet soda, coffee and other drinks with few calories and little nutritional value. Instead, drink smoothies or healthy shakes made with milk and fresh or frozen juice, and sprinkle in some ground flaxseed. In some cases, a liquid meal replacement may be recommended.
+Watch when you drink. Some people find that drinking fluids before meals blunts their appetite. In that case, it may be better to sip higher calorie beverages along with a meal or snack. For others, drinking 30 minutes after a meal, not with it, may work.
+Make every bite count. Snack on nuts, peanut butter, cheese, dried fruits and avocados. Have a bedtime snack, such as a peanut butter and jelly sandwich, or a wrap sandwich with avocado, sliced vegetables, and lean meat or cheese.
+Top it off. Add extras to your dishes for more calories — such as cheese in casseroles and scrambled eggs, and fat-free dried milk in soups and stews.
+Have an occasional treat. Even when you’re underweight, be mindful of excess sugar and fat. An occasional slice of pie with ice cream is OK. But most treats should be healthy and provide nutrients in addition to calories. Bran muffins, yogurt and granola bars are good choices.
+Exercise, especially strength training, can help you gain weight by building up your muscles. Exercise may also stimulate your appetite.
+
+    </string>
+    <string name="Physical_text">Physical activity is an important part of your weight management program. Most weight loss occurs because of decreased calorie intake. Sustained physical activity is most helpful in the prevention of weight regain. In addition, exercise has a benefit of reducing risks of cardiovascular disease and diabetes, beyond that produced by weight reduction alone. Start exercising slowly, and gradually increase the intensity. Trying too hard at first can lead to injury.
+
+Examples of moderate-intensity amounts of physical activity
+
+Common Chores
+Washing and waxing a car for 45–60 minutes
+Washing windows or floors for 45–60 minutes
+Gardening for 30–45 minutes
+Wheeling self in wheelchair for 30–40 minutes
+Pushing a stroller 1.5 miles in 30 minutes
+Raking leaves for 30 minutes
+Walking 2 miles in 30 minutes (15 min/mile)
+Shoveling snow for 15 minutes
+Stairwalking for 15 minutes
+Sporting Activities
+Playing volleyball for 45–60 minutes
+Playing touch football for 45 minutes
+Walking 1.75 miles in 35 minutes (20 min/mile)
+Basketball (shooting baskets) for 30 minutes
+Bicycling 5 miles in 30 minutes
+Dancing fast (social) for 30 minutes
+Water aerobics for 30 minutes
+Swimming laps for 20 minutes
+Basketball (playing game) for 15–20 minutes
+Bicycling 4 miles in 15 minutes
+Jumping rope for 15 minutes
+Running 1.5 miles in 15 minutes (10 min/mile)
+Activity Progression Samples
+Beginners: standing activities, ironing, cooking, playing a musical instrument, etc.
+        Light: slow walking, garage work, house cleaning, childcare, etc.
+        Moderate intensity: faster walking, weeding the garden, cycling, tennis, etc.
+        High intensity: walking fast with a load uphill, basketball, climbing, soccer, etc.
+
+        You also may want to try:
+        Flexibility exercises to attain full range of joint motion
+        Strength or resistance exercises
+        Aerobic conditioning
+
+    </string>
+    <string name="PhysicalGuide_text">Adults who are physically active are healthier and less likely to develop many chronic diseases than adults who are inactive. They also have better fitness, including a healthier body size and composition. These benefits are gained by men and women and people of all races and ethnicity who have been studied.
+
+Adults gain most of these health benefits when they do the equivalent of at least 150 minutes of moderate intensity aerobic physical activity (2 hours and 30 minutes) each week. Adults gain additional and more extensive health and fitness benefits with even more physical activity. Muscle-strengthening activities also provide health benefits and are an important part of an adult’s overall physical activity plan.
+
+Explaining the Guidelines
+The Guidelines for adults focus on two types of activity: aerobic and muscle-strengthening. Each type provides important health benefits.
+
+Aerobic Activity
+Aerobic activities, also called endurance activities, are physical activities in which people move their large muscles in a rhythmic manner for a sustained period. Running, brisk walking, bicycling, playing basketball, dancing, and swimming are all examples of aerobic activities. Aerobic activity makes a person’s heart beat more rapidly to meet the demands of the body’s movement. Over time, regular aerobic activity makes the heart and cardiovascular system stronger and fitter.
+
+The purpose of the aerobic activity does not affect whether it counts toward meeting the Guidelines. For example, physically active occupations can count toward meeting the Guidelines, as can active transportation choices (walking or bicycling). All types of aerobic activities can count as long as they are of sufficient intensity and duration. Time spent in muscle strengthening activities does not count toward the aerobic activity guidelines.
+
+When putting the Guidelines into action, it’s important to consider the total amount of activity, as well as how often to be active, for how long, and at what intensity.
+
+Key Guidelines for Adults
+All adults should avoid inactivity. Some physical activity is better than none, and adults who participate in any amount of physical activity gain some health benefits.
+For substantial health benefits, adults should do at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity, or 75 minutes (1 hour and 15 minutes) a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity aerobic activity. Aerobic activity should be performed in episodes of at least 10 minutes, and preferably, it should be spread throughout the week.
+For additional and more extensive health benefits, adults should increase their aerobic physical activity to 300 minutes (5 hours) a week of moderate-intensity, or 150 minutes a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity activity. Additional health benefits are gained by engaging in physical activity beyond this amount.
+Adults should also do muscle-strengthening activities that are moderate or high intensity and involve all major muscle groups on 2 or more days a week, as these activities provide additional health benefits.
+How Much Total Activity a Week?
+When adults do the equivalent of 150 minutes of moderate-intensity aerobic activity each week, the benefits are substantial. These benefits include lower risk of premature death, coronary heart disease, stroke, hypertension, type 2 diabetes, and depression.
+
+Not all health benefits of physical activity occur at 150 minutes a week. As a person moves from 150 minutes a week toward 300 minutes (5 hours) a week, he or she gains additional health benefits. Additional benefits include lower risk of colon and breast cancer and prevention of unhealthy weight gain.
+
+Also, as a person moves from 150 minutes a week toward 300 minutes a week, the benefits that occur at 150 minutes a week become more extensive. For example, a person who does 300 minutes a week has an even lower risk of heart disease or diabetes than a person who does 150 minutes a week.
+
+The benefits continue to increase when a person does more than the equivalent of 300 minutes a week of moderate-intensity aerobic activity. For example, a person who does 420 minutes (7 hours) a week has an even lower risk of premature death than a person who does 150 to 300 minutes a week.
+
+How Many Days a Week and for How Long?
+Aerobic physical activity should preferably be spread throughout the week. Research studies consistently show that activity performed on at least 3 days a week produces health benefits. Spreading physical activity across at least 3 days a week may help to reduce the risk of injury and avoid excessive fatigue.
+
+Both moderate- and vigorous-intensity aerobic activity should be performed in episodes of at least 10 minutes. Episodes of this duration are known to improve cardiovascular fitness and some risk factors for heart disease and type 2 diabetes.
+
+How Intense?
+Guidelines for adults focus on two levels of intensity: moderate-intensity activity and vigorous–intensity activity. To meet the Guidelines, adults can do either moderate-intensity or vigorous-intensity aerobic activities, or a combination of both. It takes less time to get the same benefit from vigorous-intensity activities as from moderate-intensity activities. A general rule of thumb is that 2 minutes of moderate-intensity activity counts the same as 1 minute of vigorous-intensity activity. For example, 30 minutes of moderate-intensity activity a week is roughly the same as 15 minutes of vigorous-intensity activity.
+
+There are two ways to track the intensity of aerobic activity: absolute intensity and relative intensity.
+
+Absolute intensity is the amount of energy expended per minute of activity. The energy expenditure of light-intensity activity, for example, is 1.1 to 2.9 times the amount of energy expended when a person is at rest. Moderate-intensity activities expend 3.0 to 5.9 times the amount of energy expended at rest. The energy expenditure of vigorous-intensity activities is 6.0 or more times the energy expended at rest.
+Relative intensity is the level of effort required to do an activity. Less fit people generally require a higher level of effort than fitter people to do the same activity. Relative intensity can be estimated using a scale of 0 to 10, where sitting is 0 and the highest level of effort possible is 10. Moderate intensity activity is a 5 or 6. Vigorous-intensity activity is a 7 or 8.
+Examples of Different Aerobic Physical Activities and Intensities
+
+ Moderate Intensity
+Walking briskly (3 miles per hour or faster, but not race-walking)
+Water aerobics
+Bicycling slower than 10 miles per hour
+Tennis (doubles)
+Ballroom dancing
+General gardening
+Vigorous Intensity
+Race walking, jogging, or running
+Swimming laps
+Tennis (singles)
+Aerobic dancing
+Bicycling 10 miles per hour or faster
+Jumping rope
+Heavy gardening (continuous digging or hoeing, with heart rate increases)
+Hiking uphill or with a heavy backpack
+Muscle-Strengthening Activity
+Muscle-strengthening activities provide additional benefits not found with aerobic activity. The benefits of muscle-strengthening activity include increased bone strength and muscular fitness. Muscle-strengthening activities can also help maintain muscle mass during a program of weight loss.
+Muscle-strengthening activities make muscles do more work than they are accustomed to doing. That is, they overload the muscles. Resistance training, including weight training, is a familiar example of muscle-strengthening activity. Other examples include working with resistance bands, doing calisthenics that use body weight for resistance (such as push-ups, pull-ups, and sit-ups), carrying heavy loads, and heavy gardening (such as digging or hoeing).
+Muscle-strengthening activities count if they involve a moderate to high level of intensity or effort and work the major muscle groups of the body: the legs, hips, back, chest, abdomen, shoulders, and arms. muscle strengthening activities for all the major muscle groups should be done at least 2 days a week.
+No specific amount of time is recommended for muscle strengthening, but muscle-strengthening exercises should be performed to the point at which it would be difficult to do another repetition without help. When resistance training is used to enhance muscle strength, one set of 8 to 12 repetitions of each exercise is effective, although two or three sets may be more effective. Development of muscle strength and endurance is progressive over time. Increases in the amount of weight or the days a week of exercising will result in stronger muscles.
+Ways to be even more active
+For adults who are already doing at least 150 minutes of moderate-intensity physical activity, here are a few ways to do even more. Physical activity at this level has even greater health benefits.
+
+Forty-five minutes of brisk walking every day, exercising with resistance bands on 2 or 3 days;
+Forty-five minutes of running on 3 or 4 days, circuit weight training in a gym on 2 or 3 days;
+Thirty minutes of running on 2 days, 45 minutes of brisk walking on 1 day, 45 minutes of an aerobics and weights class on 1 day, 90 minutes (1 hour and 30 minutes) of social dancing on 1 evening, 30 minutes of mowing the lawn, plus some heavy garden work on 1 day;
+Ninety minutes of playing soccer on 1 day, brisk walking for 15 minutes on 3 days, lifting weights on 2 days; and
+Forty-five minutes of stationary bicycling on 2 days, 60 minutes of basketball on 2 days, calisthenics on 3 days.
+
+    </string>
+    <string name="WeightLoss_text">SMART Approach to Weight Loss
+
+When it comes to weight loss, it’s easy to focus only on the number of pounds you need to lose without much thought given to lasting “lifestyle” changes. Successful weight loss is not so much about a number on the scale, it’s about adopting a lifestyle and setting goals that are based on changing the way you eat, exercise and behave. One way to do that is to use the SMART approach in creating a weight loss plan:
+
+Specific:
+Set goals that define specific behavioral changes. Instead of saying, “I’m going to lose weight,” redefine it and make it specific by saying, “I’m going to cut my calorie intake by 250 calories a day and exercise for 30 minutes a day.”
+
+Measurable:
+Set goals that are measurable and create ways to document progress. A measurable goal might be that you will lose 10% of your current body weight. Documenting progress could be in the form of keeping a food journal and exercise log. Measurable goals and documentation provides valuable feedback as you are progressing towards your goals and will increase your sense of accomplishment and motivation.
+
+Action Oriented:
+Clearly state the action that needs to be accomplished in order to achieve your goals. This allows you to actively work towards attaining them. For example, jogging for 30 minutes a day at a speed of 5 mph is an action oriented goal.
+
+Realistic:
+If your goals are not realistic, you’re setting yourself up for failure. Design your weight loss program by creating multiple short-term goals that are easily within reach. These will ultimately help you achieve your long-term goal. With each short-term goal success, you will gain the confidence and motivation that your weight loss goal can be achieved. If you’re having difficulty accomplishing a specific goal, make an adjustment or two so that it is more realistically attainable.
+
+Timed:
+Set a specific time frame to accomplish your goals. A series of timed short-term goals will serve as stepping stones to realize your long term goal. A time frame is also beneficial when it comes to needing to make some readjustments to goals that are not being met.
+
+Based on the SMART approach, a simple weight loss program could look like this for a woman who is 5′ 7″ tall and weighs 171 pounds.
+
+Long-term Goal:
+Lose 12 pounds over the next 3 months for a BMI of 24.9. (Specific, measurable, action oriented, realistic, timed) See Fitness Partner’s BMI calculator.
+Short-term Goal #1:
+Over the next month (timed), lose 4 pounds (specific, measurable, action oriented and realistic) by cutting calorie intake to 1700 calories/day and briskly walking 30 minutes a day. (Specific, measurable, action oriented, realistic)
+Track progress by keeping a food journal and documenting duration of exercise sessions each day. Weigh in every Monday morning and note weight in daily journal. (Action oriented and measurable documentation to provide feedback)
+Short-term Goal #2:
+Based on feedback and progress from last month, make any necessary adjustments required to accomplish the same goal as last month.
+An additional change this month will be to add 30 minutes of strength training twice a week at the gym using 10-12 weight machines that target each major muscle group. (Specific, measurable, action oriented, realistic, timed) Strength training sessions will be noted in daily journal. (Action oriented and measurable documentation to provide feedback)
+Short-term Goal #3
+Based on feedback and progress from last month, make any necessary adjustments required to accomplish the same goal as last month.
+An additional change this month will be to increase duration of brisk walks to 45 minutes a day and increase strength training sessions to 3 per week. (Specific, measurable, action oriented, realistic, timed) All will be documented in daily journal. (Action oriented and measurable documentation to provide feedback)
+
+    </string>
+    <string name="HealthyEatingPlan_text">Healthy Eating Plan
+
+A healthy eating plan gives your body the nutrients it needs every day while staying within your daily calorie goal for weight loss. A healthy eating plan also will lower your risk for heart disease and other health conditions.
+
+A healthy eating plan:
+Emphasizes vegetables, fruits, whole grains, and fat-free or low-fat dairy products
+Includes lean meats, poultry, fish, beans, eggs, and nuts
+Limits saturated and trans fats, sodium, and added sugars
+Controls portion sizes
+Calories
+To lose weight, most people need to reduce the number of calories they get from food and beverages (energy IN) and increase their physical activity (energy OUT).
+
+For a weight loss of 1–1 ½ pounds per week, daily intake should be reduced by 500 to 750 calories. In general:
+
+Eating plans that contain 1,200–1,500 calories each day will help most women lose weight safely.
+Eating plans that contain 1,500–1,800 calories each day are suitable for men and for women who weigh more or who exercise regularly.
+Very low calorie diets of fewer than 800 calories per day should not be used unless you are being monitored by your doctor.
+
+    </string>
+    <string name="UseInhaler_text">How to Use Your Inhaler
+
+Metered Dose Inhaler
+
+How to Use a Metered-Dose Inhaler “Puffer”
+A metered-dose inhaler, called an MDI for short, is a pressurized inhaler that delivers medication by using a propellant spray.
+
+To use an MDI:
+
+
+Shake the inhaler well before use (3 or 4 shakes)
+Remove the cap
+Breathe out, away from your inhaler
+Bring the inhaler to your mouth. Place it in your mouth between your teeth and close you mouth around it.
+Start to breathe in slowly. Press the top of you inhaler once and keep breathing in slowly until you have taken a full breath.
+Remove the inhaler from your mouth, and hold your breath for about 10 seconds, then breathe out.
+If you need a second puff, wait 30 seconds, shake your inhaler again, and repeat steps 3-6. After you’ve used your MDI, rinse out your mouth and record the number of doses taken.
+
+Store all puffers at room temperature
+
+    </string>
+    <string name="KeepHeartHelthy_text">Give up smoking
+If you’re a smoker, quit. It’s the single best thing you can do for your heart health.
+
+Get active
+Getting – and staying – active can reduce your risk of developing heart disease. It can also be a great mood booster and stress buster.
+
+Do 30 minutes of activity on five days a week. Fit it in where you can, such as by cycling to work.
+
+Manage your weight
+Being overweight can increase your risk of heart disease. Stick to a healthy balanced diet low in fat and sugar,with plenty of fruit and vegetables combined with regular physical activity.
+
+Eat more fibre
+Eat plenty of fibre to help lower your risk of heart disease – aim for at least 30g a day.
+
+Cut down on saturated fat
+Eating too many foods that are high in saturated fat can raise the level of cholesterol in your blood. This increases your risk of heart disease. Choose leaner cuts of meat and lower-fat dairy products like 1% fat milk over full-fat (or whole) milk.
+
+Get your 5 A DAY
+Eat at least five portions of a variety of fruit and vegetables a day. They’re a good source of fibre, vitamins and minerals. There are lots of tasty ways to get your 5 A DAY, like adding chopped fruit to cereal or including vegetables in your pasta sauces and curries.
+
+Cut down on salt
+To maintain healthy blood pressure,  avoid using salt at the table and try adding less to your cooking.
+
+Eat fish
+Eat fish at least twice a week, including a portion of oily fish.
+
+Don’t drink alcohol
+Read the food label
+When shopping, it’s a good idea to look at the food label on food and drink packaging to see how many calories and how much fat, salt and sugar the product contains. Understanding what is in food and how it fits in with the rest of your diet will help you make healthier choices.
+
+    </string>
+    <string name="KeepKidneyHealthy_text">The steps you take to keep your kidneys healthy help the rest of your body too.
+
+If you are at risk for kidney disease, the most important steps you can take to keep your kidneys healthy are:
+
+Get your blood and urine checked for kidney disease.
+Manage your diabetes, high blood pressure, and heart disease.
+Tips to help keep your kidneys healthy:
+Keep your blood pressure at the target set by your health care provider. For most people, the blood pressure target is less than 140/90 mm Hg. This can delay or prevent kidney failure.
+If you have diabetes, control your blood glucose level.
+Keep your cholesterol levels in the target range.
+Take medicines the way your provider tells you to. (Important! Certain blood pressure medicines called ACE inhibitors and ARBs may protect your kidneys. Ask your health care provider for more information.)
+Cut back on salt. Aim for less than 2,300 milligrams of sodium each day.
+Choose foods that are healthy for your heart: fresh fruits, fresh or frozen vegetables, whole grains, and low-fat dairy foods.
+Limit your alcohol intake.
+Be more physically active.
+Lose weight if you are overweight.
+If you smoke, take steps to quit. Cigarette smoking can make kidney damage worse.
+
+When you see your doctor, ask:
+What is my GFR?
+What is my urine albumin result?
+What is my blood pressure?
+What is my blood glucose (for people with diabetes)?
+
+    </string>
+    <string name="KeepLiverHealthy_text">Care for Your Liver
+        Here are some ways to keep your liver healthy:
+        Don’t drink alcohol. It can damage liver cells and lead to the swelling or scarring that becomes cirrhosis which can be deadly.
+        Eat a healthy diet and get regular exercise. You’ll keep your weight under control, which helps prevent nonalcoholic fatty liver disease(NAFLD), a condition that leads to cirrhosis.
+        Watch out for certain medicines.Cholesterol drugs and the painkiller acetaminophen,Tylenol can hurt your liver if you take too much.
+
+    </string>
+    <string name="BreastCancer_text">Signs Of Breast Cancer
+
+Now a days breast cancer is common in our country.So we should be concerned about breast cancer.If we concern about breast cancer and can evaluate it properly , our survival rate will be increased. Here signs of breast cancer is given below…
+
+12 signs of breast cancer
+A: Hardening
+
+B: Pinching
+
+C: Erosion
+
+D: Red and Hot
+
+E: New fluid
+
+F: Dimplin
+
+G: puckering
+
+H: Growing vein
+
+I: Nipple retraction
+
+J: Asymmetry
+
+K: Orange skin
+
+L: Invisible lump
+
+    </string>
+    <string name="VitaminA_text">Facts About Vitamin A
+What is vitamin A?
+“Vitamin A” is the blanket term for retinoids, biologically active compounds that occur naturally in both plant and animal tissues.
+
+The vitamin A that comes from animal sources is fat-soluble, and in the form of retinoic acid, retinal and retinol.
+
+The vitamin A in fruits and vegetables is in the form of  “provitamin A” -vitamin A precursors also known as  carotenoids, which must be converted by the human body into usable retinoids. They are water-soluble and do not accumulate in the body, so toxicity is rare.
+
+Why is vitamin A necessary?
+Vitamin A plays a vital role in bone growth,reproduction and immune system health
+It also helps the skin and mucous membranes repel bacteria and viruses more effectively.
+It is essential to healthy vision, and may slow declining retinal function in people with retinitis pigmentosa
+What are the signs of a deficiency?
+Vitamin A deficiency is common in developing countries.
+
+One of the earliest signs of a deficiency is night blindness. Permanent blindness can result if the deficiency is left unchecked.
+Vitamin A deficiency also allows opportunistic infectious diseases such as measles and pneumonia to become deadly.
+How much need?
+About 5000IU(adult)
+About 6000IU(pregnant women)
+About 8000IU(breast feeding mother)
+About 2000-4500Iu(1-12years old children)
+How do you get enough vitamin A from foods?
+        The richest animal source of retinols is beef liver.
+The best natural sources of carotenoids are fruits and vegetables, including
+carrots
+spinach
+kale
+butternut squash
+cantaloupe
+mangoes
+pumpkins and
+pumpkins and
+sweet potatoes.
+Are there risks associated with too much vitamin A?
+Excessive, chronic intake of some forms of vitamin A can be toxic. Avoid taking supplemental vitamin A as retinol or retinoic acid, and instead use plant-derived vitamin A precursors such as beta-carotene (in addition to other mixed carotenoids). Also avoid concentrated animal sources such as cod liver oil (although some forms of cod liver oil are vitamin A reduced and are safe – check the label). Warning symptoms of overdose include hair loss, confusion, liver damage and bone loss.
+
+    </string>
+    <string name="VitaminB_text">The Symptoms of Vitamin B Deficiency
+The Symptoms of Vitamin B Deficiency
+
+
+Vitamin B12
+What it does: Vitamin B12 helps regulate the nervous system. It also plays a role in growth and red blood cell formation.
+
+Vitamin B12 is found primarily in meat and dairy products, so strict vegetarians are at risk for a deficiency.
+
+What happens if you don’t get enough: Vitamin B12 deficiencies can lead to
+
+anemia and confusion in elderly people.
+The identifiable B12 deficiencies exhibite megaloblastic anemia.
+Psychological problems such as dementia, paranoia, depression, and behavioral problems can result from a vitamin B12 deficiency.
+People with B12 deficiencies often report tingling in their feet and hands
+Vitamin B6
+Vitamin B6 (pyridoxine) helps the body turn food into energy. It can also help the body fight infections. Pregnant and breastfeeding women need it to help their babies’ brains develop normally.
+
+B6 can be found in fish, poultry, liver, potatoes, and non-citrus fruit.
+
+
+
+Insufficient amounts of B6 can result in anemia as well as skin disorders, such as a rash or cracks around the mouth.
+A lack of B6 also can cause depression, confusion, or a susceptibility to infections.
+Vitamins B1 and B2
+Vitamin B1 is also called thiamin. Vitamin B2 is also called riboflavin. These vitamins also help convert food into energy. Vitamin B1 has neurological benefits, and vitamin B2 helps maintain proper eyesight.
+
+Most people get B1 from breakfast cereals and whole grains. B2 also can be found in whole grains, as well as in milk, eggs, and dark green vegetables.
+
+Deficiencies in vitamins B1 and B2 generally don’t pose a problem . It can become an issue with alcoholics, however, presenting issues such as confusion and cracks along the sides of the mouth.
+Vitamin B9
+Vitamin B9 is also called folic acid. Like most B vitamins, it fosters the growth of red blood cells. But it also reduces the risk of birth defects.
+
+Vitamin B9 can be found in many foods, from meats to grains to citrus fruits.
+
+Without enough B9, a person can develop diarrhea or anemia. Pregnant women with a B9 deficiency could give birth to babies with defects.
+
+</string>
+    <string name="VitaminB12_text">What Is Vitamin B12?
+Vitamin B12, also called cobalamin, is a nutrient you need for good health. It’s one of eight B vitamins that help the body convert the food you eat into glucose, which gives you energy. Vitamin B12 has a number of additional functions. It is needed for:
+
+production of elements of DNA
+production of red blood cells
+regeneration of bone marrow and the lining of the gastrointestinal and respiratory tracts
+maintaining the health of the nervous system and spinal cord
+prevention of megaloblastic anemia
+How Much B12 Do I Need?
+The amount of vitamin B12 you need is determined primarily by your age. Below the dietary need is given in micrograms:
+
+birth to 6 months: 0.4 mcg
+infants 7–12 months: 0.5 mcg
+children 1–3 years: 0.9 mcg
+children 4–8 years: 1.2 mcg
+children 9–13 years: 1.8 mcg
+teens 14–18 years: 2.4 mcg
+adults: 2.4 mcg
+pregnant teens and women: 2.6 mcg
+breastfeeding teens and women: 2.8 mcg
+
+
+Vitamin B12 is found naturally in foods that come from animals, including meat, fish, eggs, and dairy products. It also may be found in some fortified cereals and nutritional yeast.
+
+Symptoms of vitamin B12 deficiency
+Symptoms of vitamin B12 deficiency include:
+
+shakiness
+muscle weakness
+stiff, spastic muscles
+fatigue
+incontinence
+low blood pressure
+mood disturbances
+The most serious condition associated with vitamin B12 deficiency is megaloblastic anemia. This is a chronic blood disorder in which the bone marrow produces overly large, immature blood cells. As a result, the body doesn’t have enough healthy red blood cells to carry oxygen around the body.
+
+Do Older Adults Need More B12?
+Older adults are in the age group most likely to be deficient in vitamin B12.It can:
+
+reduce the risk of heart attack and stroke
+benefit memory
+offer protection against Alzheimer’s disease
+improve balance
+How Do I Know if I Have Vitamin B12 Deficiency?
+A simple blood test can determine the B12 levels in your body. If your stores are low, your doctor may prescribe a supplement. Supplemental vitamin B12 is available in capsules form, in tablets form. In some cases, your doctor may prefer to use injections to increase vitamin B12 levels.
+
+You should aware of vitamin B12 in your diet, but you don’t need to be overly concerned about if you’re not in an at-risk group. As with most nutrients, it’s best if you can get the vitamin B12 you need from the food you eat. For ample stores of vitamin B12, eat a well-rounded diet that includes meat, fish, eggs, and dairy products.
+
+
+
+    </string>
+    <string name="VitaminC_text">Facts on Vitamin C
+Vitamin C (also known as ascorbic acid) is abundant in vegetables and fruits. A water-soluble vitamin and powerful antioxidant, it helps the body form and maintain connective tissue, including bones, blood vessels, and skin.
+
+Why is vitamin C necessary, what does vitamin C do and what are some vitamin C benefits?
+Vitamin C helps to repair and regenerate tissues, protect against heart disease, aid in the absorption of iron, prevent scurvy, and decrease total and LDL (“bad”) cholesterol and triglycerides.
+
+Research indicates that vitamin C may help protect against a variety of cancers by combating free radicals, and helping neutralize the effects of nitrites (preservatives found in some packaged foods that may raise the risk of certain forms of cancer).
+
+Supplemental vitamin C may also lessen the duration and symptoms of a common cold; help delay or prevent cataracts; and support healthy immune function.
+
+What are the signs of a vitamin C deficiency?
+Deficiency symptoms include
+
+fatigue
+muscle weakness
+joint and muscle aches
+bleeding gums
+leg rashes
+Prolonged deficiency can cause scurvy, a rare but potentially severe illness.
+How much, and what kind, does an adult need?
+The recommended daily intake for adults: is
+
+men, 90 mg per day
+women, 75 mg per day
+pregnant women, 85 mg per day
+breastfeeding women, 120 mg per day.
+Smokers may benefit from a higher intake.
+
+How much does a child need?
+Adequate Intakes (AIs):
+
+infants 0-6 months old, 40 mg per day
+infants 7-12 months old, 50 mg per day.
+toddlers 1-3 years old, 15 mg per day
+children 4-8 years old, 25 mg
+children 9-13 years old, 45 mg per day
+male teens 14-18 years old, 75 mg per day
+female teens 14-18 years old, 65 mg.
+How do you get enough vitamin C from foods?
+
+
+Vitamin C is easy to get through foods, as many fruits (especially citrus) and vegetables contain vitamin C. Good sources include:
+
+Apples
+Asparagus
+Berries
+Broccoli
+Cabbage
+Melon (cantaloupe, honeydew, watermelon)
+Cauliflower
+Citrus fruits (lemons, limes, oranges)
+Kiwi
+Fortified foods (breads, grains, cereal)
+Dark leafy greens (kale, spinach)
+Peppers (especially red bell peppers, which have among the highest per-serving vitamin C content)
+Potatoes
+Tomatoes
+Are there any risks associated with too much vitamin C?
+When obtained from food sources and supplements in the recommended dosages, vitamin C is generally regarded as safe. Side effects are rarely reported, but include nausea, vomiting, heartburn, abdominal cramps, and headache. For most healthy individuals, the body can only hold and use about 250mg of vitamin C a day, and any excess is lost though urine. At times of illness, during recovery from injury, or under conditions of increased oxidative stress (including smoking), the body can use greater amounts. High doses of vitamin C (greater than 2,000 mg/day) may contribute to the formation of kidney stone as well as cause severe diarrhoea, nausea, and gastritis.
+
+    </string>
+    <string name="VitaminD_text">What is vitamin D?
+Vitamin D, often referred to as the “sunshine vitamin,” is actually a fat-soluble hormone that the body can synthesize naturally. Vitamin D2 (ergocalciferol) is synthesized by plants, and vitamin D3 (cholecalciferol) is synthesized by humans when skin is exposed to ultraviolet-B (UVB) rays from sunlight.
+
+Why is vitamin D necessary?
+Vitamin D helps in the absorption of calcium and promotes bone mineralization, which may prevent or slow the progression of osteoporosis.
+It also helps to strengthen the immune system and protect against a number of serious diseases, including rickets and osteomalacia.
+Vitamin D may also provide protection from hypertension ,psoriasis, several autoimmune diseases (including multiple sclerosis and rheumatoid arthritis, and reduce the incidence of fractured bones. In addition, growing evidence has demonstrated its important role in defending against cancer (studies link a deficiency of vitamin D to as many as 18 different cancers).
+What are the signs of a deficiency?
+Deficiencies of vitamin D are common, especially in industrialized countries where sun exposure is typically infrequent. Low levels of vitamin D may be indicated by porous bones, weak muscles and easy fracturing.
+
+How much vitamin D should adults take?
+The daily Adequate Intake (AI) for adults is 5 mcg (200 IU) daily for males, female, and pregnant/lactating women under the age of 50. People 50 to 70 years old should get 10 mcg daily (400 IU) daily, and those over 70 should get 15 mcg daily (600 IU). Anyone with vitamin D deficiencies should discuss intake levels with his or her physician.
+
+How much vitamin D should children take?
+AI for children from birth until 5 years of age should take 5 mcg per day (200 IU).
+
+Source
+
+
+Mainly sunlight
+
+Food Source: Mushrooms, Cheese, Fish Eggs, Egg Yolk, Fortified Milk and Foods, Oily Fish, Red Meat, Liver etc.
+
+    </string>
+
+
+</resources>

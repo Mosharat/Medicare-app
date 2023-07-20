@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Ambulance 1"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:id="@+id/ambulancenametextview"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium">
+
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Md. Sharif"
+        android:textStyle="normal"
+        android:textColor="@color/teal_700"
+        android:id="@+id/ambulancedrivertextview"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small">
+
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/teal_700"
+        android:text="01842772476"
+        android:inputType="phone"
+        android:textStyle="normal"
+        android:id="@+id/ambulancephonetextview"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small">
+
+
+    </TextView>
+
+
+</LinearLayout>

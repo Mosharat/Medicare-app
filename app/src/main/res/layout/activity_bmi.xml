@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    tools:context=".BmiActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@color/teal_700">
+
+
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/bmilogo"
+            android:layout_centerInParent="true"
+            android:src="@drawable/weight"
+            android:layout_gravity="center">
+
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title"
+            android:text="Calculate Your BMI"
+            android:layout_below="@+id/bmilogo"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/black">
+        </TextView>
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/weightid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:inputType="numberDecimal"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center"
+        android:hint="Enter your weight in Kg">
+
+
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/heightid"
+        android:inputType="numberDecimal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center"
+        android:hint="Enter your height in cm">
+
+
+
+    </EditText>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bmicalculatebutton"
+        android:text="Calculate BMI"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:onClick="calculateBMI"
+        android:background="@drawable/buttons_background">
+
+    </Button>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/resultid"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/teal_700">
+
+
+    </TextView>
+
+
+
+
+
+</LinearLayout>

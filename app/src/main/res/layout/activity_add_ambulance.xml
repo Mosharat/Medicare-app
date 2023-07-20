@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context=".AddAmbulanceActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        >
+
+
+        <ImageView
+            android:id="@+id/ambulancelogo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:src="@drawable/emergency_ambulance">
+
+        </ImageView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ambulisttitle"
+            android:text="Add new Ambulance"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/black">
+        </TextView>
+
+    </RelativeLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="#000"
+        android:theme="@style/TextInputLayoutStyle"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        app:hintTextAppearance="@color/design_default_color_on_primary">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/addambulistname"
+            android:hint="Enter Ambulance Name"
+            android:drawableStart="@drawable/ic_transport"
+            android:drawableLeft="@drawable/ic_transport"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textColorHint="@color/black">
+        </com.google.android.material.textfield.TextInputEditText>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="#000"
+        android:theme="@style/TextInputLayoutStyle"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        app:hintTextAppearance="@color/design_default_color_on_primary">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/addambulistdriver"
+            android:hint="Enter Driver Name"
+            android:drawableStart="@drawable/ic_people"
+            android:drawableLeft="@drawable/ic_education"
+            android:drawablePadding="10dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textColorHint="@color/black">
+        </com.google.android.material.textfield.TextInputEditText>
+
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxStrokeColor="#000"
+        android:theme="@style/TextInputLayoutStyle"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+        app:hintTextAppearance="@color/design_default_color_on_primary">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/addambulistphone"
+            android:hint="Enter Driver Phone Number"
+            android:drawableStart="@drawable/ic_phone"
+            android:drawableLeft="@drawable/ic_phone"
+            android:inputType="phone"
+            android:drawablePadding="10dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textColorHint="@color/black">
+        </com.google.android.material.textfield.TextInputEditText>
+
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ambulistsavebutton"
+        android:text="Save Information"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/buttons_background">
+
+    </Button>
+
+
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/patient"
+        android:layout_marginTop="15dp">
+
+
+    </ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Mosharat"
+        android:inputType="textPersonName"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:id="@+id/patientlistnametextview"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium">
+
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="01842772476"
+        android:textStyle="normal"
+        android:textColor="@color/teal_700"
+        android:id="@+id/patientlistphonetextview"
+        android:inputType="phone"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small">
+
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="gynocology"
+        android:textStyle="normal"
+        android:inputType="textEmailAddress"
+        android:id="@+id/patientlistemailtextview"
+        android:textColor="@color/teal_700"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Small">
+
+
+    </TextView>
+
+    </LinearLayout>
+
+
+</LinearLayout>
